@@ -1,0 +1,21 @@
+body {
+    background: url("../img/bg.jpg");
+    background-size: ajust;
+    background-repeat: no-repeat;
+    }
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.card-personagem {
+    background: #FFF;
+}
+
+.border {
+    border: 10px solid #000 !important;
+}
