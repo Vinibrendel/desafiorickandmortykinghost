@@ -9,13 +9,13 @@ ul {
 }
 
 li {
-    list-style-type: none;
+    list-style-type: rgb(238, 232, 232);
 }
 
 .card-personagem {
-    background: #FFF;
+    background:none;
 }
 
 .border {
-    border: 10px solid #000 !important;
+    border:none;
 }
